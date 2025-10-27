@@ -8,4 +8,6 @@ while(i<timeToRepeat){
     i++;
 }
 console.log(answer);
+console.log(timeToRepeat);
+
 
